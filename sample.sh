@@ -1,1 +1,1 @@
-echo "Sample Jenkins-Github Integration poll-scm demo!. Test github Webhook."
+echo "Project created to test Github-Jenkins integration and webhook!"
